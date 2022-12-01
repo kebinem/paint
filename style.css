@@ -188,6 +188,7 @@ button {
 
 .drawing-board {
   flex: 1;
+  border-radius: 5px;
 }
 
 canvas {
